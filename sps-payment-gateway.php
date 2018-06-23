@@ -4,7 +4,7 @@
  * Plugin Name: WooCommerce SPS Payment Gateway
  * Description: SPS Payment gateway for woocommerce
  * Version: 1.0
- * Author: Mohamed Ali Charfeddine
+ * Author: OUssama ouni
  */
 
 add_action('plugins_loaded', 'woocommerce_sps_init', 0);
