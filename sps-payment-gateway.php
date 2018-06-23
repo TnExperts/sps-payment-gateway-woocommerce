@@ -253,5 +253,5 @@ function woocommerce_sps_init()
     }
     add_action('plugins_loaded', 'language_sps_gateway');
 }
-/*
-url control https://velvet-cafe.com?wc-api=WC_Gateway_Sps
+/*IPN URL: 
+url  control https://velvet-cafe.com?wc-api=WC_Gateway_Sps
